@@ -13,4 +13,28 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshit-Vi/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harshit-Vi/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harshit-Vi/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harshit-Vi/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harshit-Vi/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harshit-Vi/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harshit-Vi/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 <!---LeetCode Topics End-->
