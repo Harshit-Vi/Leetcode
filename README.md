@@ -11,6 +11,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshit-Vi/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Harshit-Vi/Leetcode/tree/main/C++/Medium/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Harshit-Vi/Leetcode/tree/main/C++/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Harshit-Vi/Leetcode/tree/main/C++/Medium/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harshit-Vi/Leetcode/tree/main/C++/Medium/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -51,6 +52,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Harshit-Vi/Leetcode/tree/main/C++/Medium/2075-decode-the-slanted-ciphertext/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Harshit-Vi/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
