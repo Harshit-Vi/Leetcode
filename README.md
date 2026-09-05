@@ -35,6 +35,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/Harshit-Vi/Leetcode/tree/main/C++/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Harshit-Vi/Leetcode/tree/main/C++/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Easy/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Medium/3904-smallest-stable-index-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,6 +79,7 @@
 | ------- | ------- |
 | [1872-stone-game-viii](https://github.com/Harshit-Vi/Leetcode/tree/main/C++/Hard/1872-stone-game-viii/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Easy/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Medium/3904-smallest-stable-index-ii/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
