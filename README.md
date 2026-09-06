@@ -8,6 +8,7 @@
 | [0874-walking-robot-simulation](https://github.com/Harshit-Vi/Leetcode/tree/main/C++/Medium/0874-walking-robot-simulation/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Harshit-Vi/Leetcode/tree/main/C++/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harshit-Vi/Leetcode/tree/main/C++/Medium/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,6 +33,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Harshit-Vi/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harshit-Vi/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Harshit-Vi/Leetcode/tree/main/C++/Medium/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Harshit-Vi/Leetcode/tree/main/C++/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Harshit-Vi/Leetcode/tree/main/C++/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Easy/3903-smallest-stable-index-i/) | Easy |
