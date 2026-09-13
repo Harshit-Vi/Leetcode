@@ -1,38 +1,45 @@
 class Solution {
     public int largestOverlap(int[][] img1, int[][] img2) {
         int n = img1.length;
+        int[] a = new int[n];
+        int[] b = new int[n];
 
-        List<int[]> ones1 = new ArrayList<>();
-        List<int[]> ones2 = new ArrayList<>();
-
-        // Store coordinates of all 1s
+        // Convert every row into a bitmask
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < n; j++) {
-                if (img1[i][j] == 1) {
-                    ones1.add(new int[]{i, j});
-                }
-
-                if (img2[i][j] == 1) {
-                    ones2.add(new int[]{i, j});
-                }
+                a[i] |= img1[i][j] << j;
+                b[i] |= img2[i][j] << j;
             }
         }
 
-        Map<String, Integer> count = new HashMap<>();
         int ans = 0;
 
-        // Try every possible relative displacement
-        for (int[] a : ones1) {
-            for (int[] b : ones2) {
-                int dr = b[0] - a[0];
-                int dc = b[1] - a[1];
+        // Try every vertical translation
+        for (int dy = -(n - 1); dy <= n - 1; dy++) {
 
-                String key = dr + "," + dc;
+            int start1 = Math.max(0, -dy);
+            int start2 = Math.max(0, dy);
+            int rows = n - Math.abs(dy);
 
-                int current = count.getOrDefault(key, 0) + 1;
-                count.put(key, current);
+            // Try every horizontal translation
+            for (int dx = -(n - 1); dx <= n - 1; dx++) {
 
-                ans = Math.max(ans, current);
+                int overlap = 0;
+
+                for (int i = 0; i < rows; i++) {
+                    int x = a[start1 + i];
+                    int y = b[start2 + i];
+
+                    if (dx > 0) {
+                        x >>= dx;
+                    } else {
+                        x <<= -dx;
+                    }
+
+                    overlap += Integer.bitCount(x & y);
+                }
+
+                ans = Math.max(ans, overlap);
             }
         }
 
