@@ -29,6 +29,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0835-image-overlap](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Medium/0835-image-overlap/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Harshit-Vi/Leetcode/tree/main/C++/Medium/0874-walking-robot-simulation/) | Medium |
 | [1872-stone-game-viii](https://github.com/Harshit-Vi/Leetcode/tree/main/C++/Hard/1872-stone-game-viii/) | Hard |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Harshit-Vi/Leetcode/tree/main/C++/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -130,6 +131,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0835-image-overlap](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Medium/0835-image-overlap/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Harshit-Vi/Leetcode/tree/main/C++/Medium/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Linked List
