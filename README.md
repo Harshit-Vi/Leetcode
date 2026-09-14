@@ -48,6 +48,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Easy/0836-rectangle-overlap/) | Easy |
 | [1872-stone-game-viii](https://github.com/Harshit-Vi/Leetcode/tree/main/C++/Hard/1872-stone-game-viii/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harshit-Vi/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3870-count-commas-in-range](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Easy/3870-count-commas-in-range/) | Easy |
@@ -162,4 +163,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Easy/3483-unique-3-digit-even-numbers/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Easy/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
