@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshit-Vi/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Harshit-Vi/Leetcode/tree/main/C++/Medium/0874-walking-robot-simulation/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Harshit-Vi/Leetcode/tree/main/C++/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -26,12 +27,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshit-Vi/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Harshit-Vi/Leetcode/tree/main/C++/Medium/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0835-image-overlap](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Medium/0835-image-overlap/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Harshit-Vi/Leetcode/tree/main/C++/Medium/0874-walking-robot-simulation/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1872-stone-game-viii](https://github.com/Harshit-Vi/Leetcode/tree/main/C++/Hard/1872-stone-game-viii/) | Hard |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Harshit-Vi/Leetcode/tree/main/C++/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Harshit-Vi/Leetcode/tree/main/C++/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -60,6 +63,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harshit-Vi/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Hard/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Bit Manipulation
@@ -86,6 +90,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0940-distinct-subsequences-ii](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Hard/0940-distinct-subsequences-ii/) | Hard |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/Harshit-Vi/Leetcode/tree/main/C++/Hard/1872-stone-game-viii/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
