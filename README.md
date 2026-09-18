@@ -7,6 +7,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshit-Vi/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Harshit-Vi/Leetcode/tree/main/C++/Medium/0874-walking-robot-simulation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Harshit-Vi/Leetcode/tree/main/C++/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -17,6 +18,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshit-Vi/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Hard/0940-distinct-subsequences-ii/) | Hard |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Harshit-Vi/Leetcode/tree/main/C++/Medium/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Harshit-Vi/Leetcode/tree/main/C++/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -118,12 +120,14 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Harshit-Vi/Leetcode/tree/main/C++/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Harshit-Vi/Leetcode/tree/main/C++/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Hard/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Harshit-Vi/Leetcode/tree/main/C++/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harshit-Vi/Leetcode/tree/main/C++/Medium/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
