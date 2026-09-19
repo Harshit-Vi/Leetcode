@@ -55,6 +55,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Easy/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Medium/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/Harshit-Vi/Leetcode/tree/main/C++/Hard/1872-stone-game-viii/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harshit-Vi/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -184,4 +185,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Easy/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Medium/1401-circle-and-rectangle-overlapping/) | Medium |
 <!---LeetCode Topics End-->
