@@ -10,6 +10,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Harshit-Vi/Leetcode/tree/main/C++/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -22,6 +23,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Hard/0940-distinct-subsequences-ii/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Hard/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Harshit-Vi/Leetcode/tree/main/C++/Medium/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Harshit-Vi/Leetcode/tree/main/C++/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -43,6 +45,7 @@
 | [0874-walking-robot-simulation](https://github.com/Harshit-Vi/Leetcode/tree/main/C++/Medium/0874-walking-robot-simulation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1872-stone-game-viii](https://github.com/Harshit-Vi/Leetcode/tree/main/C++/Hard/1872-stone-game-viii/) | Hard |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Harshit-Vi/Leetcode/tree/main/C++/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Harshit-Vi/Leetcode/tree/main/C++/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
