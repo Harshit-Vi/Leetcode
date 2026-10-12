@@ -12,6 +12,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Harshit-Vi/Leetcode/tree/main/C++/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harshit-Vi/Leetcode/tree/main/C++/Medium/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -61,6 +62,7 @@
 | [1872-stone-game-viii](https://github.com/Harshit-Vi/Leetcode/tree/main/C++/Hard/1872-stone-game-viii/) | Hard |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Harshit-Vi/Leetcode/tree/main/C++/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Harshit-Vi/Leetcode/tree/main/C++/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Harshit-Vi/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harshit-Vi/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -101,6 +103,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harshit-Vi/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Combinatorics
@@ -171,6 +174,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Harshit-Vi/Leetcode/tree/main/C++/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Harshit-Vi/Leetcode/tree/main/Java/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harshit-Vi/Leetcode/tree/main/C++/Medium/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
